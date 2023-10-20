@@ -7,8 +7,12 @@ Estou iniciando no uso de Git e explorando o GitHub. Sou desenvolvedor FrontEnd 
 
 Here are some ideas to get you started:
 
+-->
+
 🔭 Atualmente trabalho como desenvolvedor Front-End na agência DreamOne.
-- 🌱 I’m currently learning ...
+🌱 Estou estudando NextJS, Node, Docker, Python
+
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
