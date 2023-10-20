@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 
 -->
 
-🔭 Atualmente trabalho como desenvolvedor Front-End na agência DreamOne.
-🌱 Estou estudando NextJS, Node, Docker, Python
+-   🔭 Atualmente trabalho como desenvolvedor Front-End na agência DreamOne.
+-   🌱 Estou estudando NextJS, Node, Docker, Python
 
 <!--
 - 👯 I’m looking to collaborate on ...
