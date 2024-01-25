@@ -1,6 +1,6 @@
 # Fala jovem, tudo bem com vc? 👋
 
-Estou iniciando no uso de Git e explorando o GitHub. Sou desenvolvedor FrontEnd e WordPress, atualmente estoudando NextJS e o submundo do NODE.
+Estou iniciando no uso de Git e explorando o GitHub. Sou desenvolvedor FrontEnd e WordPress, atualmente estoudando NextJS e NODE.
 
 <!--
 **netoliveira/netoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
