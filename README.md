@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Atualmente trabalho como desenvolvedor Front-End na agência DreamOne.
-- 🌱 Estou estudando NextJS, Node, Docker, Python, Design, Figma
+- 🌱 Estou estudando NextJS, Node, Docker, Python, Expo GO, Design, Figma
 
 <!--
 - 👯 I’m looking to collaborate on ...
