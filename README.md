@@ -46,4 +46,4 @@ Construir aplicações rápidas, escaláveis e centradas no usuário, combinando
 ## 📫 Contato
 
 - LinkedIn: https://www.linkedin.com/in/netoliveira/
-- Contato: https://netoliveira.com/contato
+- Contato: [contato](https://netoliveira.com/contato)
