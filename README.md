@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Neto Oliveira
 
 💻 Desenvolvedor Front-End com foco em performance, experiência do usuário e soluções escaláveis.  
-🚀 Atualmente atuando na DreamOne, criando interfaces modernas e otimizadas para conversão.
+🚀 Atualmente atuando como desenvolvedor Full Stack, criando interfaces modernas e otimizadas para conversão.
 
 ---
 
@@ -45,5 +45,5 @@ Construir aplicações rápidas, escaláveis e centradas no usuário, combinando
 
 ## 📫 Contato
 
-- LinkedIn: https://www.linkedin.com/in/netoliveira/
-- Contato: [contato](https://netoliveira.com/contato)
+- LinkedIn: [Clique aqui](https://www.linkedin.com/in/netoliveira/)
+- Contato: [Clique aqui](https://netoliveira.com/contato)
