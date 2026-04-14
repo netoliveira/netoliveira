@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou o Neto Oliveira
 
-💻 Desenvolvedor Front-End com foco em performance, experiência do usuário e soluções escaláveis.  
-🚀 Atualmente atuando como desenvolvedor Full Stack, criando interfaces modernas e otimizadas para conversão.
+💻 Desenvolvedor Full-Stack com foco em performance, experiência do usuário e soluções escaláveis, criando interfaces modernas e otimizadas para conversão.
 
 ---
 
