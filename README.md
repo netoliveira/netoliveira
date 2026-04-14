@@ -1,22 +1,49 @@
-# Fala jovem, tudo bem com vc? 👋
+# 👋 Olá, eu sou o Neto Oliveira
 
-Estou iniciando no uso de Git e explorando o GitHub. Sou desenvolvedor FrontEnd e WordPress, atualmente estudando NextJS e NODE.
+💻 Desenvolvedor Front-End com foco em performance, experiência do usuário e soluções escaláveis.  
+🚀 Atualmente atuando na DreamOne, criando interfaces modernas e otimizadas para conversão.
 
-<!--
-**netoliveira/netoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 Especialidades
 
--->
+- Desenvolvimento Front-End (HTML, CSS, JavaScript)
+- WordPress (custom themes, performance e SEO)
+- UI/UX Design aplicado a produtos digitais
+- Otimização de performance e Core Web Vitals
 
-- 🔭 Atualmente trabalho como desenvolvedor Front-End na agência DreamOne.
-- 🌱 Estou estudando NextJS, Node, Docker, Python, Expo GO, Design, Figma
+---
 
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Em evolução constante
+
+Atualmente aprofundando conhecimentos em:
+
+- Next.js (SSR, SSG, App Router)
+- Node.js (APIs e backend)
+- Docker (ambientes e deploy)
+- Python (automação e scripts)
+- React Native com Expo
+- Design com Figma
+
+---
+
+## 🛠️ Stack & Ferramentas
+
+- Front-End: React, Next.js, JavaScript, TypeScript
+- CMS: WordPress
+- Estilo: Tailwind, Sass
+- DevOps: Docker, Git, GitHub
+- Design: Figma
+
+---
+
+## 📈 Objetivo
+
+Construir aplicações rápidas, escaláveis e centradas no usuário, combinando código limpo com design estratégico.
+
+---
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/netoliveira/
+- Portfólio: https://netoliveira.com/
